@@ -5,6 +5,6 @@ ASP .NET
 ## IDE:
 Microsoft Visual Studio 2013
 ## Languages used:
-C#, HTML, CSS
+C#, HTML, CSS, JavaScript
 ## Database:
 SQL Server DB
