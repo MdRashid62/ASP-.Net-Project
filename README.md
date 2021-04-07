@@ -1,5 +1,5 @@
 # NGO WEBSITE
-#### This is an eProject for my APTECH 3rd Seme
+#### This is an eProject for my APTECH 3rd Semes
 ## Framework:
 ASP .NET
 ## IDE:
