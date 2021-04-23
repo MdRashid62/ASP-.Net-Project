@@ -3,7 +3,7 @@
 ## Framework:
 ASP .NET
 ## IDE:
-Mic Visual Studio 2013
+Micr Visual Studio 2013
 ## Languages used:
 C#, HTML, CSS, JavaScript
 ## Database:
