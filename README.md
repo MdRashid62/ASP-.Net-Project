@@ -3,7 +3,7 @@
 ## Framework:
 ASP .NET
 ## IDE:
-Microsoft Visual Studio 
+Microsoft Visual Studio 2
 ## Languages used:
 C#, HTML, CSS, JavaScript
 ## Database:
